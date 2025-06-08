@@ -14,14 +14,12 @@
 
 ---
 
-<sup>1</sup>Desvousges et al., Measuring Nonuse Damages Using Contingent Valuation, 2010.
-<sup>2</sup>Kahneman, “Comments by Professor Daniel Kahneman,” 1986; McFadden and Leonard,
-“Issues in the Contingent Valuation of Environmental Goods,” 1993.
-<sup>3</sup>Kahneman, Ritov, and Schkade, “Economic Preferences or Attitude Expressions?,” 1999.
-<sup>4</sup>Carson and Mitchell, “Sequencing and Nesting in Contingent Valuation Surveys,” 1995.
-<sup>5</sup>Baron and Greene, “Determinants of Insensitivity to Quantity in Valuation of Public Goods,”
-1996.
-<sup>6</sup>Fetherstonhaugh et al., “Insensitivity to the Value of Human Life,” 1997.
+- <sup>1</sup>Desvousges et al., Measuring Nonuse Damages Using Contingent Valuation, 2010.
+- <sup>2</sup>Kahneman, “Comments by Professor Daniel Kahneman,” 1986; McFadden and Leonard, “Issues in the Contingent Valuation of Environmental Goods,” 1993.
+- <sup>3</sup>Kahneman, Ritov, and Schkade, “Economic Preferences or Attitude Expressions?,” 1999.
+- <sup>4</sup>Carson and Mitchell, “Sequencing and Nesting in Contingent Valuation Surveys,” 1995.
+- <sup>5</sup>Baron and Greene, “Determinants of Insensitivity to Quantity in Valuation of Public Goods,” 1996.
+- <sup>6</sup>Fetherstonhaugh et al., “Insensitivity to the Value of Human Life,” 1997.
 
 ---
 
@@ -41,11 +39,9 @@ The moral: If you want to be an effective altruist, you have to think it through
 
 ---
 
-<sup>1</sup>Desvousges et al., Measuring Nonuse Damages Using Contingent Valuation, 2010.
-<sup>2</sup>Kahneman, “Comments by Professor Daniel Kahneman,” 1986; McFadden and Leonard,
-“Issues in the Contingent Valuation of Environmental Goods,” 1993.
-<sup>3</sup>Kahneman, Ritov, and Schkade, “Economic Preferences or Attitude Expressions?,” 1999.
-<sup>4</sup>Carson and Mitchell, “Sequencing and Nesting in Contingent Valuation Surveys,” 1995.
-<sup>5</sup>Baron and Greene, “Determinants of Insensitivity to Quantity in Valuation of Public Goods,”
-1996.
-<sup>6</sup>Fetherstonhaugh et al., “Insensitivity to the Value of Human Life,” 1997.
+- <sup>1</sup>Desvousges et al., Measuring Nonuse Damages Using Contingent Valuation, 2010.
+- <sup>2</sup>Kahneman, “Comments by Professor Daniel Kahneman,” 1986; McFadden and Leonard, “Issues in the Contingent Valuation of Environmental Goods,” 1993.
+- <sup>3</sup>Kahneman, Ritov, and Schkade, “Economic Preferences or Attitude Expressions?,” 1999.
+- <sup>4</sup>Carson and Mitchell, “Sequencing and Nesting in Contingent Valuation Surveys,” 1995.
+- <sup>5</sup>Baron and Greene, “Determinants of Insensitivity to Quantity in Valuation of Public Goods,” 1996.
+- <sup>6</sup>Fetherstonhaugh et al., “Insensitivity to the Value of Human Life,” 1997.

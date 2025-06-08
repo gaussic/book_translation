@@ -34,7 +34,7 @@
 
 ---
 
-<sup>1</sup> 例如：“舰长，如果你直接驾驶企业号冲进那个黑洞，我们的生存概率只有2.234%。”但十次有九次企业号都没被毁。什么样的悲剧傻瓜会用四位有效数字来描述一个差了两个数量级的概率？
+- <sup>1</sup> 例如：“舰长，如果你直接驾驶企业号冲进那个黑洞，我们的生存概率只有2.234%。”但十次有九次企业号都没被毁。什么样的悲剧傻瓜会用四位有效数字来描述一个差了两个数量级的概率？
 
 ---
 
@@ -74,4 +74,4 @@ Curiosity, pragmatism, and quasi-moral injunctions are all key to the rationalis
 
 ---
 
-<sup>1</sup>E.g., “Captain, if you steer the Enterprise directly into that black hole, our probability of surviving is only 2.234%.” Yet nine times out of ten the Enterprise is not destroyed. What kind of tragic fool gives four significant digits for a figure that is off by two orders of magnitude?
+- <sup>1</sup>E.g., “Captain, if you steer the Enterprise directly into that black hole, our probability of surviving is only 2.234%.” Yet nine times out of ten the Enterprise is not destroyed. What kind of tragic fool gives four significant digits for a figure that is off by two orders of magnitude?

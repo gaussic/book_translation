@@ -24,8 +24,8 @@
 
 ---
 
-<sup>1</sup> Tegmark, “Parallel Universes,” 2004, http://arxiv.org/abs/astro-ph/0302131.
-<sup>2</sup> 总会有聪明人说：“啊，但因为我有希望，我会更努力工作，推动全球经济，从而帮助防止国家陷入愤怒和绝望的状态，避免核战争的可能性。所以这两件事其实是有关联的。”这时，我们就得用贝叶斯定理来定量衡量这种关系。你的乐观性格不可能对世界产生那么大的影响；它本身无法让核战争的概率降低20%，或者说无法像你的乐观性格改变信念那样大幅降低概率。仅仅因为某个事件只略微增加了你判断正确的概率，却让你大幅调整信念，最终只会让你的“地图”变得更糟。
+- <sup>1</sup> Tegmark, “Parallel Universes,” 2004, http://arxiv.org/abs/astro-ph/0302131.
+- <sup>2</sup> 总会有聪明人说：“啊，但因为我有希望，我会更努力工作，推动全球经济，从而帮助防止国家陷入愤怒和绝望的状态，避免核战争的可能性。所以这两件事其实是有关联的。”这时，我们就得用贝叶斯定理来定量衡量这种关系。你的乐观性格不可能对世界产生那么大的影响；它本身无法让核战争的概率降低20%，或者说无法像你的乐观性格改变信念那样大幅降低概率。仅仅因为某个事件只略微增加了你判断正确的概率，却让你大幅调整信念，最终只会让你的“地图”变得更糟。
 
 ---
 
@@ -55,5 +55,5 @@ If you can see this—if you can see that hope is shifting your first-order thou
 
 ---
 
-<sup>1</sup>Tegmark, “Parallel Universes,” 2004, http://arxiv.org/abs/astro-ph/0302131.
-<sup>2</sup>Some clever fellow is bound to say, “Ah, but since I have hope, I’ll work a little harder at my job, pump up the global economy, and thus help to prevent countries from sliding into the angry and hopeless state where nuclear war is a possibility. So the two events are related after all.” At this point, we have to drag in Bayes’s Theorem and measure the relationship quantitatively. Your optimistic nature cannot have that large an effect on the world; it cannot, of itself, decrease the probability of nuclear war by 20%, or however much your optimistic nature shifted your beliefs. Shifting your beliefs by a large amount, due to an event that only slightly increases your chance of being right, will still mess up your mapping.
+- <sup>1</sup>Tegmark, “Parallel Universes,” 2004, http://arxiv.org/abs/astro-ph/0302131.
+- <sup>2</sup>Some clever fellow is bound to say, “Ah, but since I have hope, I’ll work a little harder at my job, pump up the global economy, and thus help to prevent countries from sliding into the angry and hopeless state where nuclear war is a possibility. So the two events are related after all.” At this point, we have to drag in Bayes’s Theorem and measure the relationship quantitatively. Your optimistic nature cannot have that large an effect on the world; it cannot, of itself, decrease the probability of nuclear war by 20%, or however much your optimistic nature shifted your beliefs. Shifting your beliefs by a large amount, due to an event that only slightly increases your chance of being right, will still mess up your mapping.

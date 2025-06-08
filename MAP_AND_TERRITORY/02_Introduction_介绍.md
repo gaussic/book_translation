@@ -63,13 +63,13 @@ Rob Bensinger
 
 ---
 
-<sup>1</sup>Weiten, Psychology: Themes and Variations, Briefer Version, Eighth Edition, 2010.
-<sup>2</sup>Heuer, Psychology of Intelligence Analysis, 1999.
-<sup>3</sup>Hansen et al., “People Claim Objectivity After Knowingly Using Biased Strategies,” 2014.
-<sup>4</sup>Pronin, Lin, and Ross, “The Bias Blind Spot: Perceptions of Bias in Self versus Others,” 2002.
-<sup>5</sup>Ehrlinger, Gilovich, and Ross, “Peering Into the Bias Blind Spot: People’s Assessments of Bias in Themselves and Others,” 2005.
-<sup>6</sup>Serfas, Cognitive Biases in the Capital Investment Context: Theoretical Considerations and Empirical Experiments on Violations of Normative Rationality, 2010.
-<sup>7</sup>The first edition of Rationality: From AI to Zombies was released as a single sprawling ebook, before the series was edited and split up into separate volumes. The full book can also be found on http://lesswrong.com/rationality.
+- <sup>1</sup>Weiten, Psychology: Themes and Variations, Briefer Version, Eighth Edition, 2010.
+- <sup>2</sup>Heuer, Psychology of Intelligence Analysis, 1999.
+- <sup>3</sup>Hansen et al., “People Claim Objectivity After Knowingly Using Biased Strategies,” 2014.
+- <sup>4</sup>Pronin, Lin, and Ross, “The Bias Blind Spot: Perceptions of Bias in Self versus Others,” 2002.
+- <sup>5</sup>Ehrlinger, Gilovich, and Ross, “Peering Into the Bias Blind Spot: People’s Assessments of Bias in Themselves and Others,” 2005.
+- <sup>6</sup>Serfas, Cognitive Biases in the Capital Investment Context: Theoretical Considerations and Empirical Experiments on Violations of Normative Rationality, 2010.
+- <sup>7</sup>《理性：从人工智能到僵尸》第一版最初以一部庞大的电子书形式发布，后来经过编辑拆分为多个独立卷册。全书也可在 http://lesswrong.com/rationality 阅读。
 
 ---
 
@@ -139,10 +139,10 @@ Special and sincere thanks to Alex Vermeer, who steered the original version of 
 
 ---
 
-<sup>1</sup>Weiten, Psychology: Themes and Variations, Briefer Version, Eighth Edition, 2010.
-<sup>2</sup>Heuer, Psychology of Intelligence Analysis, 1999.
-<sup>3</sup>Hansen et al., “People Claim Objectivity After Knowingly Using Biased Strategies,” 2014.
-<sup>4</sup>Pronin, Lin, and Ross, “The Bias Blind Spot: Perceptions of Bias in Self versus Others,” 2002.
-<sup>5</sup>Ehrlinger, Gilovich, and Ross, “Peering Into the Bias Blind Spot: People’s Assessments of Bias in Themselves and Others,” 2005.
-<sup>6</sup>Serfas, Cognitive Biases in the Capital Investment Context: Theoretical Considerations and Empirical Experiments on Violations of Normative Rationality, 2010.
-<sup>7</sup>The first edition of Rationality: From AI to Zombies was released as a single sprawling ebook, before the series was edited and split up into separate volumes. The full book can also be found on http://lesswrong.com/rationality.
+- <sup>1</sup>Weiten, Psychology: Themes and Variations, Briefer Version, Eighth Edition, 2010.
+- <sup>2</sup>Heuer, Psychology of Intelligence Analysis, 1999.
+- <sup>3</sup>Hansen et al., “People Claim Objectivity After Knowingly Using Biased Strategies,” 2014.
+- <sup>4</sup>Pronin, Lin, and Ross, “The Bias Blind Spot: Perceptions of Bias in Self versus Others,” 2002.
+- <sup>5</sup>Ehrlinger, Gilovich, and Ross, “Peering Into the Bias Blind Spot: People’s Assessments of Bias in Themselves and Others,” 2005.
+- <sup>6</sup>Serfas, Cognitive Biases in the Capital Investment Context: Theoretical Considerations and Empirical Experiments on Violations of Normative Rationality, 2010.
+- <sup>7</sup>The first edition of Rationality: From AI to Zombies was released as a single sprawling ebook, before the series was edited and split up into separate volumes. The full book can also be found on http://lesswrong.com/rationality.
