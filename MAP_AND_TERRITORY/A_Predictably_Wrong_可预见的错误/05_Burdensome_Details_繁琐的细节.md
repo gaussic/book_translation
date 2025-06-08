@@ -42,11 +42,9 @@
 ---
 
 <sup>1</sup>Tversky and Kahneman, “Judgments of and by Representativeness,” 1982.
-
 <sup>2</sup>See Tversky and Kahneman, “Extensional Versus Intuitive Reasoning,” 1983 and Kahneman
 and Frederick, “Representativeness Revisited: Attribute Substitution in Intuitive Judgment,”
 2002 for more information.
-
 <sup>3</sup>Tversky and Kahneman, “Extensional Versus Intuitive Reasoning,” 1983.
 
 ---
@@ -95,9 +93,7 @@ You have to disentangle the details. You have to hold up every one independently
 ---
 
 <sup>1</sup>Tversky and Kahneman, “Judgments of and by Representativeness,” 1982.
-
 <sup>2</sup>See Tversky and Kahneman, “Extensional Versus Intuitive Reasoning,” 1983 and Kahneman
 and Frederick, “Representativeness Revisited: Attribute Substitution in Intuitive Judgment,”
 2002 for more information.
-
 <sup>3</sup>Tversky and Kahneman, “Extensional Versus Intuitive Reasoning,” 1983.

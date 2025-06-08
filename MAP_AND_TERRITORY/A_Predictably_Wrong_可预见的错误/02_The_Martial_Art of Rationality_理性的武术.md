@@ -24,7 +24,6 @@
 
 ## The Martial Art of Rationality
 
-
 I often use the metaphor that rationality is the martial art of mind. You don’t need huge, bulging muscles to learn martial arts—there’s a tendency toward more athletic people being more likely to learn martial arts, but that may be a matter of enjoyment as much as anything else. If you have a hand, with tendons and muscles in the appropriate places, then you can learn to make a fist.
 
 Similarly, if you have a brain, with cortical and subcortical areas in the appropriate places, you might be able to learn to use it properly. If you’re a fast learner, you might learn faster—but the art of rationality isn’t about that; it’s about training brain machinery we all have in common. And where there are systematic errors human brains tend to make—like an insensitivity to scope—rationality is about fixing those mistakes, or finding work-arounds.

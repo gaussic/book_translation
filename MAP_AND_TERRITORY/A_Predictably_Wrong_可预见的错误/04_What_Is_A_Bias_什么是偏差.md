@@ -18,6 +18,8 @@
 
 我们来到这里，是为了追寻人类伟大的求真之旅：因为我们迫切需要知识，而且我们也充满好奇。为此，让我们努力克服一切挡在我们面前的障碍，无论我们是否称它们为“偏差”。
 
+---
+
 ## What’s a Bias?
 
 The availability heuristic is a cognitive shortcut humans use to reach conclusions; and where this shortcut reliably causes inaccurate conclusions, we can say that an availability bias is at work. Scope insensitivity is another example of a cognitive bias.

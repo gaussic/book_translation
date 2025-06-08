@@ -60,15 +60,9 @@
 
 ---
 
-<sup>1</sup>For a longer discussion of truth, see “The Simple Truth” at the very end of this volume.
-
-<sup>2</sup>The idea that “rationality” is about strictly privileging verbal reasoning over feelings is a case in point. Bayesian rationality applies to urges, hunches, perceptions, and wordless intuitions, not just to assertions.
-
-I gave the example of opening your eyes, looking around you, and building a mental model of a room containing a bookcase against the wall. The modern idea of rationality is general enough to include your eyes and your brain’s visual areas as things-that-map, and to include instincts and emotions in the belief-and-goal calculus.
-
-<sup>3</sup>For an informal statement of Newcomb’s Problem, see Holt, “Thinking Inside the Boxes,”
-2002, http://www.slate.com/articles/arts/egghead/2002/02/thinkinginside_the_boxes.single.
-html.
+<sup>1</sup>关于真理的更详细讨论，见本卷最后的《简单的真理》一文。  
+<sup>2</sup>认为“理性”就是严格优先于情感的语言推理，这正是一个典型的误区。贝叶斯理性同样适用于冲动、直觉、感知和无言的本能，而不仅仅是断言。我举过一个例子：睁开眼睛环顾四周，并在脑海中建立一个房间的模型，墙边有书架。现代理性的概念足够广泛，能够把你的眼睛和大脑的视觉区域都视为“制图工具”，并把本能和情感纳入信念与目标的计算之中。
+<sup>3</sup>关于纽康姆问题的非正式表述，见 Holt, “Thinking Inside the Boxes,” 2002, http://www.slate.com/articles/arts/egghead/2002/02/thinkinginside_the_boxes.single.html。
 
 ---
 
@@ -135,11 +129,8 @@ Yet one should be careful not to overuse that word. One receives no points merel
 ---
 
 <sup>1</sup>For a longer discussion of truth, see “The Simple Truth” at the very end of this volume.
-
 <sup>2</sup>The idea that “rationality” is about strictly privileging verbal reasoning over feelings is a case in point. Bayesian rationality applies to urges, hunches, perceptions, and wordless intuitions, not just to assertions.
-
 I gave the example of opening your eyes, looking around you, and building a mental model of a room containing a bookcase against the wall. The modern idea of rationality is general enough to include your eyes and your brain’s visual areas as things-that-map, and to include instincts and emotions in the belief-and-goal calculus.
-
 <sup>3</sup>For an informal statement of Newcomb’s Problem, see Holt, “Thinking Inside the Boxes,”
 2002, http://www.slate.com/articles/arts/egghead/2002/02/thinkinginside_the_boxes.single.
 html.

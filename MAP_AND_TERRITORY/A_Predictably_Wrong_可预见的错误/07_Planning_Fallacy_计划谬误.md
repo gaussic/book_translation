@@ -50,15 +50,10 @@ Newby-Clark 等人揭示了计划算法背后的根本问题：
 ---
 
 <sup>1</sup>我也看到有人声称（金额）高达 31 亿美元。
-
 <sup>2</sup>Buehler, Griffin, and Ross, “Exploring the ‘Planning Fallacy,”’ 1994.
-
 <sup>3</sup>Buehler, Griffin, and Ross, “It’s About Time,” 1995.
-
 <sup>4</sup>Buehler, Griffin, and Ross, “Inside the Planning Fallacy,” 2002.
-
 <sup>5</sup>Newby-Clark et al., “People Focus on Optimistic Scenarios and Disregard Pessimistic Scenarios While Predicting Task Completion Times,” 2000.
-
 <sup>6</sup>Buehler, Griffin, and Ross, “Inside the Planning Fallacy,” 2002.
 
 ---
@@ -115,13 +110,8 @@ You’ll get back an answer that sounds hideously long, and clearly reflects no 
 ---
 
 <sup>1</sup>I’ve also seen $3.1 billion asserted.
-
 <sup>2</sup>Buehler, Griffin, and Ross, “Exploring the ‘Planning Fallacy,”’ 1994.
-
 <sup>3</sup>Buehler, Griffin, and Ross, “It’s About Time,” 1995.
-
 <sup>4</sup>Buehler, Griffin, and Ross, “Inside the Planning Fallacy,” 2002.
-
 <sup>5</sup>Newby-Clark et al., “People Focus on Optimistic Scenarios and Disregard Pessimistic Scenarios While Predicting Task Completion Times,” 2000.
-
 <sup>6</sup>Buehler, Griffin, and Ross, “Inside the Planning Fallacy,” 2002.

@@ -14,12 +14,14 @@
 
 ---
 
-<sup>1</sup>Desvousges 等，《利用或然估值法衡量非使用损害》，2010年。  
-<sup>2</sup>Kahneman，“丹尼尔·卡尼曼教授评论”，1986年；McFadden 和 Leonard，《环境产品或然估值中的问题》，1993年。  
-<sup>3</sup>Kahneman、Ritov 和 Schkade，《经济偏好还是态度表达？》，1999年。  
-<sup>4</sup>Carson 和 Mitchell，《或然估值调查中的排序与嵌套》，1995年。  
-<sup>5</sup>Baron 和 Greene，《公共物品价值评估中对数量不敏感的决定因素》，1996年。  
-<sup>6</sup>Fetherstonhaugh 等，《对生命价值的不敏感》，1997年。
+<sup>1</sup>Desvousges et al., Measuring Nonuse Damages Using Contingent Valuation, 2010.
+<sup>2</sup>Kahneman, “Comments by Professor Daniel Kahneman,” 1986; McFadden and Leonard,
+“Issues in the Contingent Valuation of Environmental Goods,” 1993.
+<sup>3</sup>Kahneman, Ritov, and Schkade, “Economic Preferences or Attitude Expressions?,” 1999.
+<sup>4</sup>Carson and Mitchell, “Sequencing and Nesting in Contingent Valuation Surveys,” 1995.
+<sup>5</sup>Baron and Greene, “Determinants of Insensitivity to Quantity in Valuation of Public Goods,”
+1996.
+<sup>6</sup>Fetherstonhaugh et al., “Insensitivity to the Value of Human Life,” 1997.
 
 ---
 
@@ -40,15 +42,10 @@ The moral: If you want to be an effective altruist, you have to think it through
 ---
 
 <sup>1</sup>Desvousges et al., Measuring Nonuse Damages Using Contingent Valuation, 2010.
-
 <sup>2</sup>Kahneman, “Comments by Professor Daniel Kahneman,” 1986; McFadden and Leonard,
 “Issues in the Contingent Valuation of Environmental Goods,” 1993.
-
 <sup>3</sup>Kahneman, Ritov, and Schkade, “Economic Preferences or Attitude Expressions?,” 1999.
-
 <sup>4</sup>Carson and Mitchell, “Sequencing and Nesting in Contingent Valuation Surveys,” 1995.
-
 <sup>5</sup>Baron and Greene, “Determinants of Insensitivity to Quantity in Valuation of Public Goods,”
 1996.
-
 <sup>6</sup>Fetherstonhaugh et al., “Insensitivity to the Value of Human Life,” 1997.

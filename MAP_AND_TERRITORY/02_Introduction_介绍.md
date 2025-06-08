@@ -63,19 +63,13 @@ Rob Bensinger
 
 ---
 
-<sup>1</sup>Weiten，《心理学：主题与变迁（简明版）》，第八版，2010年。
-
-<sup>2</sup>Heuer，《情报分析心理学》，1999年。  
-
-<sup>3</sup>Hansen 等人，“人们在明知使用有偏策略后仍声称客观”，2014年。 
-
-<sup>4</sup>Pronin、Lin 和 Ross，“偏见盲区：对自我与他人偏见的感知”，2002年。  
-
-<sup>5</sup>Ehrlinger、Gilovich 和 Ross，“窥视偏见盲区：人们对自身与他人偏见的评估”，2005年。
-
-<sup>6</sup>Serfas，《资本投资情境中的认知偏差：规范理性违背的理论考察与实证实验》，2010年。 
- 
-<sup>7</sup>《理性：从人工智能到僵尸》第一版最初作为一部庞大的电子书发布，后来经过编辑拆分为多个独立卷册。全书亦可在 http://lesswrong.com/rationality 阅读。
+<sup>1</sup>Weiten, Psychology: Themes and Variations, Briefer Version, Eighth Edition, 2010.
+<sup>2</sup>Heuer, Psychology of Intelligence Analysis, 1999.
+<sup>3</sup>Hansen et al., “People Claim Objectivity After Knowingly Using Biased Strategies,” 2014.
+<sup>4</sup>Pronin, Lin, and Ross, “The Bias Blind Spot: Perceptions of Bias in Self versus Others,” 2002.
+<sup>5</sup>Ehrlinger, Gilovich, and Ross, “Peering Into the Bias Blind Spot: People’s Assessments of Bias in Themselves and Others,” 2005.
+<sup>6</sup>Serfas, Cognitive Biases in the Capital Investment Context: Theoretical Considerations and Empirical Experiments on Violations of Normative Rationality, 2010.
+<sup>7</sup>The first edition of Rationality: From AI to Zombies was released as a single sprawling ebook, before the series was edited and split up into separate volumes. The full book can also be found on http://lesswrong.com/rationality.
 
 ---
 
@@ -146,15 +140,9 @@ Special and sincere thanks to Alex Vermeer, who steered the original version of 
 ---
 
 <sup>1</sup>Weiten, Psychology: Themes and Variations, Briefer Version, Eighth Edition, 2010.
-
 <sup>2</sup>Heuer, Psychology of Intelligence Analysis, 1999.
-
 <sup>3</sup>Hansen et al., “People Claim Objectivity After Knowingly Using Biased Strategies,” 2014.
-
 <sup>4</sup>Pronin, Lin, and Ross, “The Bias Blind Spot: Perceptions of Bias in Self versus Others,” 2002.
-
 <sup>5</sup>Ehrlinger, Gilovich, and Ross, “Peering Into the Bias Blind Spot: People’s Assessments of Bias in Themselves and Others,” 2005.
-
 <sup>6</sup>Serfas, Cognitive Biases in the Capital Investment Context: Theoretical Considerations and Empirical Experiments on Violations of Normative Rationality, 2010.
-
 <sup>7</sup>The first edition of Rationality: From AI to Zombies was released as a single sprawling ebook, before the series was edited and split up into separate volumes. The full book can also be found on http://lesswrong.com/rationality.

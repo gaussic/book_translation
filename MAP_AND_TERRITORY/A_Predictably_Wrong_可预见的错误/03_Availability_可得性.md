@@ -19,7 +19,6 @@ Burton 等人报告说，当修建水坝和堤防后，洪水发生的频率降�
 ---
 
 <sup>1</sup>Kunreuther, Hogarth, and Meszaros, “Insurer Ambiguity and Market Failure,” 1993.
-
 <sup>2</sup>Burton, Kates, and White, The Environment as Hazard, 1978.
 
 ---
@@ -45,5 +44,4 @@ Memory is not always a good guide to probabilities in the past, let alone in the
 ---
 
 <sup>1</sup>Kunreuther, Hogarth, and Meszaros, “Insurer Ambiguity and Market Failure,” 1993.
-
 <sup>2</sup>Burton, Kates, and White, The Environment as Hazard, 1978.
