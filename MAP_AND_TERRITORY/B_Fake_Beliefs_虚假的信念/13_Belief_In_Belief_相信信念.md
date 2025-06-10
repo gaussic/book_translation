@@ -42,6 +42,8 @@
 
 <sup>3</sup> 当然，如果信念本身并非绝对坚定，相信信念依然可能干扰放弃信念的过程。
 
+---
+
 ## Belief in Belief
 
 Carl Sagan once told a parable of someone who comes to us and claims: “There is a dragon in my garage.” Fascinating! We reply that we wish to see this dragon—let us set out at once for the garage! “But wait,” the claimant says to us, “it is an invisible dragon.”
