@@ -34,6 +34,8 @@
 
 如果我们不严格把“呃，也许是因为热传导？”当作伪解释，学生很可能就会卡在某个wakalixes密码上。这是默认会发生的事：整个人类都曾这样卡了几千年。
 
+---
+
 ## Guessing the Teacher’s Password
 
 When I was young, I read popular physics books such as Richard Feynman’s QED: The Strange Theory of Light and Matter. I knew that light was waves, sound was waves, matter was waves. I took pride in my scientific literacy, when I was nine years old.
